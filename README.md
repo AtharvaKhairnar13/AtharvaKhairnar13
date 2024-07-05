@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Atharva Khairnar<br>and I'm a ..., from ....</p>
+<p align="left">My name is Atharva Khairnar</p>
 
 ###
 
